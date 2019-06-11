@@ -46,7 +46,7 @@
 						</div>
 						<button type="sign up" class="btn btn-info">Sign up</button>
 						<div>
-							<p>Already have an account? <a href="index.html">Sign in</a></p>
+							<p>Already have an account? <a href="index.php">Sign in</a></p>
 						</div>
 					</form>
 				</div>

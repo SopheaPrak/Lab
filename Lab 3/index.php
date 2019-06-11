@@ -38,7 +38,7 @@
 							<button type="submit" class="btn btn-info">Sign in</button>
 						</div>
 						<div>
-							<a href="register.html">New User?</a>
+							<a href="register.php">New User?</a>
 						</div>
 						<div>
 							<a href="#">I forget my password</a>
